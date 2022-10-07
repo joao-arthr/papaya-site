@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <item codigo="1">
+        <titulo>Novas Ideias</titulo>
+        <texto>As novas ideias são de extrema importância para buscarmos a inovação</texto>
+        <imagem>gem</imagem>
+    </item>
+    <item codigo="2">
+        <titulo>Tecnologias atualizadas</titulo>
+        <texto>utilizamos as melhores tecnologias disponíveis para o desenvolvimento</texto>
+        <imagem>laptop</imagem>
+    </item>
+    <item codigo="3">
+        <titulo>Projetos conectados</titulo>
+        <texto>Criamos sistemas multiplataformas conectadas entre si</texto>
+        <imagem>globe</imagem>
+    </item>
+    <item codigo="4">
+        <titulo>Otimizamos operações</titulo>
+        <texto>Utiliziando a tecnologia otimizamos processos do dia a dia com projetos</texto>
+        <imagem>speedometer2</imagem>
+    </item>
+</conteudo>
